@@ -7,3 +7,6 @@ This is a simple application that is used to capture PC's screenshot at a partic
 
 ### 👀 This is how it looks
 ![new](https://user-images.githubusercontent.com/104165177/192295265-72c977dc-4ca4-4c07-adb4-ee17a7c93eec.PNG)
+
+![new1](https://user-images.githubusercontent.com/104165177/192299580-01f367fa-9217-4457-befc-b9c0416c1a85.PNG)
+
